@@ -1,0 +1,53 @@
+{
+	"name": "Coordiplug Coordinadora Shipping",
+	"version": "0.5",
+	"download_url": "http://localhost/update-server/packages/coordinadora.zip",
+
+	"homepage": "http://example.com/",
+	"requires": "4.5",
+	"tested": "4.8",
+	"last_updated": "2016-05-06 16:17:00",
+	"upgrade_notice": "Here's why you should upgrade...",
+
+	"author": "Jose Angel Londoño",
+	"author_homepage": "http://example.com/",
+
+	"sections": {
+		"description": "Integra en métodos de envio el servicio de WSDL de Coordinadora Colombia, para calcular los costos de envío.",
+		"installation": " Upload coordiplug.zip to the /wp-content/plugins/ directory and extract.",
+		"changelog": "<p>local DB</p>",
+		"custom_section": "'Custom Section'."
+	},
+	
+	"icons" : {
+		"1x" : "http://localhost/update-server/assets/delivery-truck-128x128.png",
+		"2x" : "http://localhost/update-server/assets/delivery-truck-256x256.png",
+		"svg" : "http://localhost/update-server/assets/delivery-truck.svg"
+    },
+
+	"banners": {
+		"low": "http://w-shadow.com/files/external-update-example/assets/banner-772x250.png",
+		"high": "http://w-shadow.com/files/external-update-example/assets/banner-1544x500.png"
+	},
+
+	"translations": [
+		{
+			"language": "fr_FR",
+			"version": "4.0",
+			"updated": "2016-04-22 23:22:42",
+			"package": "http://example.com/updates/translations/french-language-pack.zip"
+		},
+		{
+			"language": "de_DE",
+			"version": "5.0",
+			"updated": "2016-04-22 23:22:42",
+			"package": "http://example.com/updates/translations/german-language-pack.zip"
+		}
+	],
+
+	"rating": 90,
+	"num_ratings": 123,
+
+	"downloaded": 1234,
+	"active_installs": 12345
+}
